@@ -1,0 +1,7 @@
+D:\Уни неща\Втори семестър\Приложна информатика\Приложна информатика - кодове\Roman to Integer\bin\Debug\Roman to Integer.exe.config
+D:\Уни неща\Втори семестър\Приложна информатика\Приложна информатика - кодове\Roman to Integer\bin\Debug\Roman to Integer.exe
+D:\Уни неща\Втори семестър\Приложна информатика\Приложна информатика - кодове\Roman to Integer\bin\Debug\Roman to Integer.pdb
+D:\Уни неща\Втори семестър\Приложна информатика\Приложна информатика - кодове\Roman to Integer\obj\Debug\Roman to Integer.csproj.AssemblyReference.cache
+D:\Уни неща\Втори семестър\Приложна информатика\Приложна информатика - кодове\Roman to Integer\obj\Debug\Roman to Integer.csproj.CoreCompileInputs.cache
+D:\Уни неща\Втори семестър\Приложна информатика\Приложна информатика - кодове\Roman to Integer\obj\Debug\Roman to Integer.exe
+D:\Уни неща\Втори семестър\Приложна информатика\Приложна информатика - кодове\Roman to Integer\obj\Debug\Roman to Integer.pdb
